@@ -16,8 +16,8 @@ intervalo = range(0)
 
 def falsy(valor):
     return 'falsy'if not valor else 'truthy'
-#retorna 'falsy' se o valor nao for verdadeiro, se for verdadeiro ele retorna truthy
-
+#retorna '
+print()
 
 print(f'TESTE', falsy('TESTE'))
 print(f'{lista=}', falsy(lista))
