@@ -8,4 +8,4 @@ for i in range(len(palavras)):
         for indice in range(len(vogais)):
             if letras == vogais[indice]:
                 print(f'{letras} ', end='')
-    print()
+    print() #fim
