@@ -4,10 +4,12 @@ class Product():
         self.price = price
         self.quantity = quantity   
                     
-        def totalValueStock():
-            return quantity*price
-        def addProducts(qntd):
-            quantity += qntd    
-        def removeProducts(qntd):
-            quantity -= qntd
+    def totalValueStock(self):
+        return self.quantity*self.price
+    def addProducts(self,qntd):
+        self.quantity += qntd    
+        print(f'Foram adicionados {qntd} {self.name} ao estoque')
+    def removeProducts(self, qntd):
+        self.quantity -= qntd
+        print(f'Foram retirados {qntd} {self.name} ao estoque')
     
