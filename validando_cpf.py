@@ -87,5 +87,3 @@ if teste == int(cpf_original[9]) and teste2 == int(cpf_original[10]):
     print("CPF válido!")
 else:
     print("CPF inválido.")
-
-print("teste")
