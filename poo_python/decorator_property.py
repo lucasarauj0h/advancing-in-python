@@ -2,7 +2,7 @@
 #getter/setter, usa-se os decorators property
 
 class Person:
-    def __init__(self, name, age):
+    def __init__(self, name, age): 
         self._name = name
         self._age = age
         
