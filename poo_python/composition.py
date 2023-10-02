@@ -11,10 +11,11 @@ class Parrots(Animal):
     
 class Zoo():
     def __init__(self):
-        self.animals_dict = {}
+        self.animals_dict = {} #criando animal_dict como dicionário
         
     def add_animal(self, animal):
-        self.animals_dict [animal.name] = animal.category
+        self.animals_dict [animal.name] = animal.category #adiciono o nome do animal
+        #atribuido a uma categoria
         
     def total_of_category(self, category):
         result = 0
@@ -25,17 +26,8 @@ class Zoo():
     
 zoo = Zoo()
 
-peixe = Fish("Nemo", "mamifero")
+peixe = Fish("Nemo", "mamifero") #criando a subclasse, passando parametro pra classe-pai
+#nome, e categoria
 print(vars(peixe))
 
-papagaio = Parrots("Louro", "aves")
-print(vars(papagaio))
-
-zoo.add_animal(peixe)
-zoo.add_animal(papagaio)
-
-print(zoo.total_of_category("aves"))
-print(zoo.total_of_category("mamifero"))
-
-#analisar e comentar este código
         
