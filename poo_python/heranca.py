@@ -24,4 +24,5 @@ class Lion(Animal):
         print("O leão está cassando!")
         
 
-fluffy = Lion("Cabeludo", "1,70m", "Blue")
+fluffy = Lion("Cabeludo", "1,70m", "Blue") 
+print()
