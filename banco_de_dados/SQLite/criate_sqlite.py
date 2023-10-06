@@ -9,3 +9,4 @@ connection = sqlite3.connect("banco_de_dados/SQLite/title.db") #criando uma base
 # verifica se houve alguma alteração na base de dados 
 
 print(connection.total_changes)
+
