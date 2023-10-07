@@ -19,25 +19,30 @@ cursor = connection.cursor()
 # - TEXT : do tipo texto
 # - REAL : do tipo numeros reais
 
-# 3 - Inserindo Dados
-cursor.execute("""
-INSERT INTO movies (name, year, score)
-VALUES ('Super Mario Bros', 2023, 9.5)
-""")
+# 2 - solicitando dados do usuário
+
+name = input('nome do filme: \n')
+year = int(input('ano de lançamento: \n'))
+score = float(input('nota do filme: \n'))
+
+# 3 - inserindo os dados:
+# - INSERT : para inserir
+
+# - INTO : [para inserir] - EM (neste caso, tabela movies, e os parametros da tabela)
+# - VALUES (?, ?, ?) : inserindo de modo dinamico, após a """ é passado uma tupla com
+# as variaveis que serão adicionadas/inseridas, na mesma ordem!
 
 cursor.execute("""
-INSERT INTO movies (name, year, score)
-VALUES ('Avatar', 2023, 10.0)
-""")
+    INSERT INTO movies (name, year, score)
+    VALUES (?, ?, ?)
+               """, (name, year, score))
 
-cursor.execute("""
-INSERT INTO movies (name, year, score)
-VALUES ('Velozes & Furiosos', 2023, 8.5)
-""")    
 
-# 4 - Gravando Dados no BD
+# 4 - fechando a conexão
+
 connection.commit()
-print('Dados inseridos com sucesso.')
+print("tabela criada com sucesso")
 
-# 5 - Fechando conexão
+#fechando a conexão
+
 connection.close()
