@@ -42,7 +42,5 @@ cursor.execute("""
 
 connection.commit()
 print("tabela criada com sucesso")
-
 #fechando a conexão
-
 connection.close()
