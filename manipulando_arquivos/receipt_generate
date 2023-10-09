@@ -1,0 +1,33 @@
+from fpdf import FPDF
+from num2words import num2words
+from datetime import date
+
+# dados do cliente
+client = input("Informe o nome do cliente\n")
+consulta = input("Informe o tipo de consulta\n")
+value = input("Informe o valor da consulta\n")
+value_extends = num2words(float(value), lang='pt-br')
+value_extends_msg = f'{value_extends} reais'
+data = date.today()
+
+data.day
+data.month
+data.year
+
+# layout do recibo
+
+pdf = FPDF()
+pdf.add_page()
+pdf.set_font('Arial', "", 20)
+pdf.image("rec.jpg", x=0, y=0)
+pdf.text(80,86, client) #posicionando o lugar, e passando como argumento o texto que 
+#devera ser posicionado nesse lugar
+pdf.text(162, 45, value) #posicionando o valor em dinheiro
+pdf.text(80, 108, value_extends_msg) #poscionando valor em extenso
+pdf.text(80, 135, consulta) #consulta
+pdf.set_text_color(255,255,255)
+pdf.text(30,193,str(data.day))
+pdf.text(50,193,str(data.month))
+pdf.text(70,193,str(data.year))
+pdf.output(f'{client.strip()}_{data.year}_{data.month}_{data.day}.pdf')
+print("Recibo gerado com sucesso!")
