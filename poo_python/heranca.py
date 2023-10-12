@@ -12,7 +12,7 @@ class Horse(Animal):
         self.race = race
         
     def escape():
-        print("O cavalo escapou!")
+        print("O cavalo escapou!") #pr
         
 class Lion(Animal):
     
@@ -25,4 +25,5 @@ class Lion(Animal):
         
 
 fluffy = Lion("Cabeludo", "1,70m", "Blue") 
+print()
 print()
