@@ -1,4 +1,4 @@
-from connection_postgreSQL import connection, read_bd
+from ConnectionPostgreSQL import connection, read_bd
 
 cursor_obj = connection.cursor()
 

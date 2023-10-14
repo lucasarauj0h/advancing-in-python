@@ -1,0 +1,1 @@
+olá mundo, estamos aprendendo automações com a linguagem python
