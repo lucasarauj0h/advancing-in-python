@@ -14,5 +14,5 @@ if p1.exists():
     with open(p1, 'r', encoding='utf-8') as file:
         print(file.read())
         
-p2 = Path('basic')
-pprint(list(p2.iterdir()))
+# p2 = Path('basic')
+# pprint(list(p2.iterdir()))
