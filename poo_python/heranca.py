@@ -25,5 +25,4 @@ class Lion(Animal):
         
 
 fluffy = Lion("Cabeludo", "1,70m", "Blue") 
-print()
-print()
+
