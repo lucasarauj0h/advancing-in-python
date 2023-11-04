@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div> 
+            <h4 style="font-family: Arial, Helvetica, sans-serif; color: #000000;">Olá, bom dia!</h4>
+            <p>Somos da empresa XYZ Automação estamos expandindo a nossa empresa</p>
+            <p>gostaria de saber se você tem interesse em participar de uma conversa com a gente.</p>
+            <p>Fico no aguardo do retorno.</p>
+            <p>Att,</p>
+            <h5>Dpto RH XYZ Automação</h5>
+            <h5>fone: (xx) xxxx-xxxx</h5>
+            <h5>email: rh@xyzautomacao</h5>
+        </div>
+        <div style="padding:40px 0px">
+            <div style="height: 500px;width:400px">
+                <img src="https://programadorviking.com.br/wp-content/uploads/2022/04/onebitcode-e%CC%81-bom-1024x561.jpg" style="height: 200px;">
+                <div>
+                    <a target="_blank" href="https://pro.onebitcode.com/">Link para página</a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

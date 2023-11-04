@@ -1,0 +1,9 @@
+Tipo,Valor,Forma_Pagto
+Energia,200,Dinheiro
+Roupas,150,Cartão
+Livros,50,Cartão
+Aluguel,800,Pix
+Remédio,100,Pix
+Petshp,80,Dinheiro
+Comida,500,Cartão
+Jogos,100,Pix
