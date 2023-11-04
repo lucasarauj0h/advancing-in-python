@@ -1,0 +1,5 @@
+Rodrigo,rodrigo@email.com
+Fulano,fulano@email.com
+Abc,abc@email.com
+Sicrano,sicrano@email.com
+Jose,jose@email.com
