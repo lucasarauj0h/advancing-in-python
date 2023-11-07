@@ -1,4 +1,4 @@
-from connection_ORM_postgreSQL import Base, engine, session
+from ConnectionORMPostgreSQL import Base, engine, session
 from User import User
 from Post import Post
 

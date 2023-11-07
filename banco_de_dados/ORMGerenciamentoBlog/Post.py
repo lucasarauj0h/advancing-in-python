@@ -1,4 +1,4 @@
-from connection_ORM_postgreSQL import Base
+from ConnectionORMPostgreSQL import Base
 from sqlalchemy import Column, Integer, String, ForeignKey
 from sqlalchemy.orm import relationship
 
