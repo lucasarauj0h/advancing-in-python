@@ -16,3 +16,5 @@ cursos = soup.find_all('h5')
 print(cursos)
 for curso in cursos:
     print(curso.text)
+    print(curso)
+    
