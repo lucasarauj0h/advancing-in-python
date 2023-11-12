@@ -1,0 +1,476 @@
+,companys,skills,published_date
+0,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+1,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+2,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+3,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+4,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+5,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+6,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+7,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+8,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+9,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+10,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+11,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+12,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+13,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+14,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+15,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+16,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+17,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+18,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+19,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+20,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+21,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+22,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+23,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+24,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+25,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+26,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+27,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+28,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+29,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+30,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+31,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+32,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+33,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+34,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+35,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+36,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+37,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+38,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+39,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+40,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+41,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+42,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+43,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+44,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+45,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+46,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+47,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+48,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+49,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+50,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+51,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+52,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+53,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+54,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+55,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+56,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+57,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+58,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+59,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+60,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+61,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+62,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+63,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+64,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+65,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+66,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+67,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+68,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+69,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+70,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+71,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+72,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+73,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+74,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+75,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+76,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+77,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+78,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+79,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+80,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+81,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+82,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+83,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+84,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+85,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+86,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+87,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+88,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+89,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+90,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+91,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+92,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+93,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+94,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+95,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+96,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+97,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+98,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+99,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+100,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+101,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+102,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+103,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+104,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+105,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+106,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+107,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+108,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+109,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+110,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+111,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+112,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+113,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+114,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+115,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+116,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+117,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+118,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+119,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+120,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+121,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+122,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+123,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+124,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+125,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+126,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+127,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+128,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+129,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+130,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+131,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+132,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+133,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+134,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+135,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+136,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+137,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+138,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+139,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+140,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+141,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+142,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+143,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+144,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+145,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+146,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+147,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+148,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+149,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+150,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+151,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+152,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+153,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+154,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+155,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+156,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+157,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+158,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+159,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+160,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+161,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+162,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+163,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+164,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+165,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+166,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+167,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+168,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+169,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+170,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+171,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+172,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+173,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+174,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+175,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+176,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+177,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+178,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+179,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+180,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+181,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+182,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+183,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+184,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+185,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+186,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+187,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+188,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+189,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+190,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+191,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+192,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+193,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+194,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+195,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+196,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+197,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+198,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+199,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+200,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+201,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+202,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+203,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+204,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+205,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+206,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+207,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+208,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+209,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+210,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+211,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+212,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+213,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+214,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+215,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+216,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+217,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+218,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+219,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+220,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+221,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+222,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+223,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+224,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+225,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+226,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+227,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+228,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+229,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+230,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+231,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+232,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+233,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+234,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+235,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+236,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+237,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+238,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+239,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+240,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+241,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+242,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+243,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+244,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+245,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+246,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+247,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+248,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+249,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+250,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+251,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+252,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+253,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+254,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+255,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+256,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+257,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+258,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+259,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+260,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+261,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+262,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+263,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+264,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+265,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+266,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+267,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+268,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+269,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+270,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+271,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+272,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+273,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+274,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+275,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+276,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+277,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+278,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+279,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+280,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+281,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+282,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+283,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+284,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+285,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+286,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+287,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+288,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+289,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+290,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+291,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+292,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+293,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+294,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+295,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+296,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+297,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+298,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+299,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+300,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+301,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+302,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+303,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+304,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+305,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+306,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+307,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+308,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+309,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+310,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+311,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+312,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+313,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+314,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+315,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+316,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+317,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+318,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+319,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+320,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+321,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+322,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+323,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+324,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+325,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+326,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+327,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+328,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+329,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+330,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+331,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+332,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+333,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+334,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+335,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+336,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+337,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+338,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+339,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+340,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+341,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+342,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+343,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+344,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+345,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+346,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+347,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+348,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+349,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+350,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+351,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+352,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+353,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+354,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+355,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+356,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+357,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+358,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+359,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+360,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+361,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+362,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+363,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+364,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+365,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+366,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+367,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+368,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+369,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+370,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+371,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+372,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+373,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+374,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+375,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+376,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+377,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+378,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+379,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+380,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+381,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+382,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+383,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+384,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+385,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+386,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+387,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+388,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+389,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+390,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+391,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+392,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+393,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+394,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+395,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+396,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+397,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+398,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+399,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+400,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+401,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+402,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+403,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+404,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+405,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+406,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+407,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+408,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+409,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+410,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+411,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+412,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+413,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+414,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+415,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+416,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+417,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+418,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+419,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+420,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+421,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+422,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+423,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+424,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+425,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+426,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+427,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+428,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+429,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+430,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+431,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+432,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+433,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+434,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+435,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+436,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+437,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+438,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+439,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+440,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+441,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+442,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+443,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+444,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+445,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+446,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+447,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+448,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+449,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
+450,pearl global solutions,"python,database,django,teamplayer,sql",few days ago
+451,AxisTechnolabs,"python,django,itskills,html5,api,jquery",few days ago
+452,brancosoft,"html5,oop,security,postgresql,mysql,rest,python,javascript,django,soap",few days ago
+453,beechi vidya kendra,"bigdata/python,aws,backendwebdevelopment,flask/django/fastapi,ci/cdpractices,technologyconsulting",few days ago
+454,CIGNEX Datamatics Technologies Pvt Ltd,"python,sql,django,postgresql,writtencommunication,api,angularjs",few days ago
+455,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+456,evry india pvt ltd,"python,sql,databaseknowledge,writingsqlqueries,dataanalysis,json,globaldelivery,adf,writtencommunication",few days ago
+457,MODE FINSERVER PRIVATE LIMITED,"python,webrtc,html5,javascript,database,django,postgresql,linux,debugging,sockets",few days ago
+458,MODE FINSERVER PRIVATE LIMITED,"python,css,machinelearning,artificialintelligence,javascript,sql,django,html,dash",few days ago
+459,innefu labs pvt. ltd.,"python,database,django,neo4j,mining,webcrawling",few days ago
+460,NLiven Technologies Pvt. Ltd.,"rest,python,html5,javascript,jquery,nosql,security,django,git,oops,mysql",few days ago
+461,InteleANTS Virtual Workforce Private Limited,"python,scripting,automation,devops,restfulapidesign,systemsecurity,systemadministration,git,writtencommunication",few days ago
+462,CANVERA TRADERS PRIVATE LIMITED,"python,rdbms,javascript,sql,spring,springboot,django,java",few days ago
+463,inflexi technologies pvt ltd,"algorithms,python,css,naturallanguageprocessing,problemsolving,teamplayer,machinelearning,ajax,javascript,jquery,database,postgresql,xml,messagequeue,debugging,datastructures,mysql,html,api",few days ago
+464,Doodleblue Innovations Pvt Ltd,"python,database,django,git,html5,debugging,javascript,jquery",few days ago
+465,AxisTechnolabs,"python,css,userinteraction,bootstrap,openerp,database,xml,oops,html",few days ago
+466,WBC Software Lab,"python,git,restapi,linux,mobile,mongodb,docker",few days ago
+467,NuageBiz.Tech,"python,mobile,teamplayer,svn,security,git,softwareengineering",few days ago
+468,AxisTechnolabs,"python,django,html5,teamplayer,angularjs,javascript",few days ago
+469,pegasus knowledge solutions india pvt ltd.,"python,css,django,java,html,bootstrap,api,jquery,sql",few days ago
+470,Techasoft Pvt Ltd,"python,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv",few days ago
+471,gammastack indore,"python,database,django,restapi,oops,machinelearning,artificialintelligence",few days ago
+472,Fluper Limited,"c#,python,virtualreality,mobile,augmentedreality,opencv",few days ago
+473,alliance recruitment agency,"css,softwaredesign,sql,database,git,softwareengineering,webdevelopment,html,python,javascript,django",few days ago
+474,3Embed Software Technologies,"python,django,restapi,operatingsystem,mysql,datastructures,hadoop,mvc,mongodb",few days ago
