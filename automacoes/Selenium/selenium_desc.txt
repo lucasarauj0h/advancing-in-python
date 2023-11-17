@@ -1,0 +1,8 @@
+É um framework para atuomação e testes em aplicações web; também atuomação de tarefas web
+Permite realizar automação de forma dinamica e interativa utilizando um driver
+
+Selenium webdriver:
+- Permite manipular navegadores web e com suporte a algumas linguagens de programção
+
+Selenium IDE   
+Selenium Gride
