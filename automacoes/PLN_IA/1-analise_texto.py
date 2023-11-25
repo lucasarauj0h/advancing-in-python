@@ -67,4 +67,3 @@ wordcloud = WordCloud(
 ).generate(texto)
 
 plot_cloud(wordcloud)
-print(' ')
