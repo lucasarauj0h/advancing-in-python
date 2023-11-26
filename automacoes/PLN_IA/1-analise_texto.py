@@ -48,7 +48,7 @@ wordcloud = WordCloud(
     stopwords = STOPWORDS
 ).generate(texto)
 
-# plot_cloud(wordcloud)
+plot_cloud(wordcloud)
 
 mask = np.array(
     Image.open('automacoes/PLN_IA/data/upvote.png')
@@ -66,4 +66,4 @@ wordcloud = WordCloud(
     mask = mask
 ).generate(texto)
 
-plot_cloud(wordcloud)
+# plot_cloud(wordcloud)
