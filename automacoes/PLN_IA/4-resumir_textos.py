@@ -7,7 +7,7 @@ from sumy.nlp.tokenizers import Tokenizer
 
 # 1 - Coletando o artigo
 g = Goose()
-url = 'https://olhardigital.com.br/2023/08/09/ciencia-e-espaco/por-que-e-importante-criar-uma-rotina-de-sono/'
+url = 'https://www.bbc.com/portuguese/articles/c889kvd2e13o'
 noticia = g.extract(url)
 print(noticia.cleaned_text)
 
