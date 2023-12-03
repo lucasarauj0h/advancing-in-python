@@ -23,3 +23,4 @@ resumo = sumarizador(
 )
 for setenca in resumo:
     print(setenca)
+    print('att')
