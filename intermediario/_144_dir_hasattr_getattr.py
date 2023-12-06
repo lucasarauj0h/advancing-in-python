@@ -11,3 +11,5 @@ if hasattr(string, 'upper'):
 if hasattr(string, metodo):
     print('existe upper', getattr(string, metodo)())
 else: print("não existe metodo", metodo)
+
+print('upper')
