@@ -29,13 +29,13 @@ word_to_digit = {
     'dez': 10
 }
 
-numero_digito = word_to_digit[numero]
 
 
 numero = recon.recognize_google(audio, language='pt-br')
 resultado = randint(1,10)
 print(resultado)
 
+numero_digito = word_to_digit[numero]
 
 if numero_digito == resultado:
     criar_audio('resultado.mp3', 'Parabéns, você acertou o número')
