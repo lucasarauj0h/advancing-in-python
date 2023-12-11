@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 # Instalar ambas as bibliotecas
 
 
-# print(noticias)
 
 # 1 - Coletando as 3 ultimas notícias do site rss
 def ultimas_noticias():
@@ -13,4 +12,7 @@ def ultimas_noticias():
 
     for item in noticias.findAll('item')[:3]:
         titulo = item.title.text
+        print(titulo)
         return titulo
+
+ultimas_noticias()
