@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block conteudo %}
+    <h2 style="text-align: center;">Integrando HTML ao Flask</h2>
+    <hr>
+    <form action="{{url_for('principal')}}" method="POST">
+        <label for="">conteudo</label>
+        <input type="text", name="conteudo">
+        <button>adicionar</button>
+    </form>
+
+    Lista de conteudos:
+    <ol>
+        {% for conteudo in conteudos %}
+        <li> {{ conteudo }} </li>  
+        {% endfor %}
+    </ol>
+
+{% endblock conteudo %}
