@@ -1,4 +1,15 @@
+'''
+https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=
+
+https://api.themoviedb.org/3/discover/movie?certification_country=US&certification.lte=G&sort_by=popularity.desc&api_key=
+
+https://api.themoviedb.org/3/discover/movie?primary_release_year=2010&sort_by=vote_average.desc&api_key=
+
+key: cad33cb92ca0fa9baf86ee9240dc74d4
+'''
+
 from flask import Flask, render_template, request
+from lista_filmes import dados_json
 
 app = Flask(__name__)
 
@@ -42,3 +53,10 @@ def diario():
             )
     return render_template('sobre.html',
                            registros = registros)
+
+@app.route('/filmes')
+def lista_filmes():
+    return render_template(
+        'filmes.html',
+        filmes=dados_json['results']
+        )
