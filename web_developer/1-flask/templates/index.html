@@ -2,16 +2,16 @@
 {% block conteudo %}
     <h2 style="text-align: center;">Integrando HTML ao Flask</h2>
     <hr>
-    <form action="{{url_for('principal')}}" method="POST">
+    <form class='form-group'action="{{url_for('principal')}}" method="POST">
         <label for="">conteudo</label>
-        <input type="text", name="conteudo">
-        <button>adicionar</button>
+        <input class='form-control' type="text", name="conteudo">
+        <button class='btn btn-success' >Adicionar</button>
     </form>
 
     Lista de conteudos:
-    <ol>
+    <ol class="list-group list-group-numbered">
         {% for conteudo in conteudos %}
-        <li> {{ conteudo }} </li>  
+        <li class="list-group-item"> {{ conteudo }} </li>  
         {% endfor %}
     </ol>
 
