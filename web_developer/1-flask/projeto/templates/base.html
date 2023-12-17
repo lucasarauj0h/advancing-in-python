@@ -21,16 +21,22 @@
               <li class="nav-item">
                 <a class="nav-link" href="{{url_for('diario')}}">Diário</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{{url_for('lista_livros')}}">Livros</a>
+              </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Filmes
                 </a>
                 <ul class="dropdown-menu">
                   <li>
-                    <a class="dropdown-item" href="{{url_for('lista_filmes')}}">Mais populares</a></li>
-                  <li><a class="dropdown-item" href="#">Animação</a></li>
+                    <a class="dropdown-item" href="{{url_for('lista_filmes', propriedade='Populares')}}">Mais Populares</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="{{url_for('lista_filmes', propriedade='Animação')}}">Animação</a></li>
                   <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="#">2010</a></li>
+                  <li>
+                    <a class="dropdown-item" href="{{url_for('lista_filmes', propriedade='2010')}}">2010</a></li>
                 </ul>
               </li>
             </ul>

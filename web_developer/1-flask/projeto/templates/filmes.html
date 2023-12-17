@@ -6,7 +6,7 @@
     {% for filme in filmes|sort(attribute='vote_average', reverse=True) %}
         <div class="col-md-3">
             <div class="card mb-3">
-                <img src="http://image.tmdb.org/t/p/w500{{filme.backdrop_path}}" class="card-img-top" alt="card-img-top">
+                <img src="http://image.tmdb.org/t/p/w500{{filme.poster_path}}" class="card-img-top" alt="card-img-top">
                 <div class="card-body">
                     <h5 class="card-title">{{filme.title}}</h5>
                     <p class="card-text">{{filme.overview}}</p>

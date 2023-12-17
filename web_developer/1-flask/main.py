@@ -9,10 +9,18 @@ key: cad33cb92ca0fa9baf86ee9240dc74d4
 '''
 
 from flask import Flask, render_template, request
-from lista_filmes import dados_json
+from projeto.lista_filmes import resultado_filmes
+from flask_sqlalchemy import SQLAlchemy
+from livro import livro
 
 app = Flask(__name__)
 
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///livros.sqlite3'
+
+db = SQLAlchemy()
+db.init_app(app)
+
+ 
 # rota: localhost:5000/
 conteudos = []
 registros = []
@@ -54,9 +62,16 @@ def diario():
     return render_template('sobre.html',
                            registros = registros)
 
-@app.route('/filmes')
-def lista_filmes():
+@app.route('/filmes/<propriedade>')
+def lista_filmes(propriedade):
     return render_template(
-        'filmes.html',
-        filmes=dados_json['results']
-        )
+        "filmes.html", 
+        filmes=resultado_filmes(propriedade)
+    )
+    
+@app.route('/livros')
+def lista_livros():
+    return render_template(
+        'livros.html',
+        livros=livro.query.all()
+        )    
