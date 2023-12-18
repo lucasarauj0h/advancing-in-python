@@ -4,8 +4,16 @@ import smtplib
 import ssl
 import mimetypes
 
-password = open('automacoes\AutomacoesTarefas\password.txt', 'r').read()
-print(password)
+caminho = r'C:\Users\Lucas\OneDrive\Documentos\password.txt'
+
+try:
+    with open(caminho, 'r') as arquivo:
+        password = arquivo.read()
+except FileNotFoundError:
+    print(f'O arquivo em {caminho} não foi encontrado.')
+except Exception as e:
+    print(f'Ocorreu um erro: {e}')
+    
 from_email = 'saculrp06@gmail.com'
 to_email = 'saculrp06@gmail.com'
 
@@ -20,12 +28,13 @@ message = EmailMessage()
 message['From'] = from_email
 message['To'] = to_email
 message['Subject'] = subject
+
 # Definindo o conteudo do corpo
 message.set_content(body, subtype='html')
 safe = ssl.create_default_context()
 
 # Adicionando anexo
-anexo = 'automacoes\AutomacoesTarefas\password.txt'
+anexo = 'bb_preco.png'
 print(mimetypes.guess_type(anexo)[0])
 mime_type, mime_subtype = mimetypes.guess_type(anexo)[0].split('/')
 with open(anexo, 'rb') as a:

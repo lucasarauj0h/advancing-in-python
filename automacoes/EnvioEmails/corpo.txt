@@ -80,7 +80,7 @@
 </head>
 <body>
     <header>
-        <h1>Lucas Araujo - Portfólio</h1>
+        <h1>Lucas Araujo - CV</h1>
     </header>
 
     <section>
@@ -93,7 +93,7 @@
 
         <div class="links">
             <a href="https://github.com/lucasarauj0h" target="_blank">GitHub</a>
-            <a href="https://sites.google.com/aluno.ufabc.edu.br/portfolio/" target="_blank">Portfólio</a>
+            <a href="https://sites.google.com/aluno.ufabc.edu.br/portfolio/" target="_blank">Portfólio de BI</a>
             <a href="https://www.linkedin.com/in/lucasarauj0h" target="_blank">LinkedIn</a>
         </div>
 
@@ -124,8 +124,6 @@
                 <li>Power BI</li>
                 <li>Excel</li>
                 <li>Análise de dados - BI</li>
-                <li>Bancos de dados relacionais e não relacionais</li>
-                <li>Conhecimento básico em Machine Learning</li>
             </ul>
         </div>
     </section>
