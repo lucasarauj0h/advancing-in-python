@@ -28,6 +28,8 @@ for (uid, message) in messages:
     # print(message.sent_from)
     # print(message.sent_to)
     # print(message.date)
+    
+    # Extraindo o anexo em pdf e passando para a pasta attachment
     if len(message.attachments) > 0:
         for attach in message.attachments:
             file = open('attachment/report.pdf', 'wb')
