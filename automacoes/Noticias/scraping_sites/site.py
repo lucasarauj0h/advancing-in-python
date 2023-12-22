@@ -40,7 +40,7 @@ class Site:
 
             # Fazendo uma requisição com o requests
             page = requests.get(url, headers = browsers)
-            print(page)
+            # print(page)
             resposta = page.text
 
             soup = BeautifulSoup(resposta, 'html.parser')
@@ -75,7 +75,7 @@ class Site:
 
             # Fazendo uma requisição com o requests
             page = requests.get(url, headers = browsers)
-            print(page)
+            # print(page)
             resposta = page.text
 
             soup = BeautifulSoup(resposta, 'html.parser')
@@ -138,5 +138,3 @@ class Site:
             self.news = news_dict_r7
                        
 self = Site('globo')
-
-
