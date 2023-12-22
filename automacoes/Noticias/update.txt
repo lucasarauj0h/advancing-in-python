@@ -1,0 +1,5 @@
+# Ideias para aprimorar o projeto.
+1 - Exportação para uma planilha csv
+2 - Envio para um e-mail
+3 - Serviço web 
+4 - Algoritmo de envio para whatsapp/telegram
