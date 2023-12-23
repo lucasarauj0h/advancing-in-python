@@ -1,6 +1,7 @@
 # Ideias para aprimorar o projeto.
 
 - Segmentar as noticias para filtra-lá em algum tipo (mercado financeiro, ex.)
+- Criar um resumo da notícia quando solicitada, atravez da biblioteca Goose (Estudado em PLN_IA)
 
 1 - Exportação para uma planilha csv
 2 - Envio para um e-mail
