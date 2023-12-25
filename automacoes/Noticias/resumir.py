@@ -7,11 +7,14 @@ from sumy.parsers.plaintext import PlaintextParser
 from sumy.summarizers.luhn import LuhnSummarizer
 from sumy.summarizers.lsa import LsaSummarizer
 from sumy.nlp.tokenizers import Tokenizer
+from datetime import datetime
 
 # 1 - Coletando o artigo
-def resumo(link):
+def resume(link):
+    print(link)
     g = Goose()
-    url = 'https://noticias.r7.com/internacional/reino-unido-enviara-navio-de-guerra-para-guiana-em-meio-a-tensao-com-venezuela-24122023'
+    url = link['link']
+    print(link['link'])
     noticia = g.extract(url)
     # print(noticia.cleaned_text)
 
@@ -26,12 +29,16 @@ def resumo(link):
         5 # Número de paragrafos do resumo
     )
     # print(resumo)
-    frase = ''
+    frase = f'{link["data"].strftime("%d-%m-%Y %H:%M")} - {link["fonte"].upper()} - {link["materia"]}'
     for setenca in resumo:
         frase += '\n'+str(setenca)
         
-        # with(open("names.txt",'a')) as file:
-        #     file.write(f'{name}\n')
-        
+    print(frase)
+    with(open("resume.txt", 'w', encoding='utf-8')) as file:
+        file.write(f'{frase}\n')
+
+       
+     
+    
            
             

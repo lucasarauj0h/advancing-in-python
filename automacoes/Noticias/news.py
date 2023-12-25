@@ -8,6 +8,7 @@ import pickle
 import webbrowser
 from math import ceil 
 from pytimedinput import timedInput
+from resumir import resume
 
 class News:
     def __init__(self):
@@ -90,6 +91,7 @@ class News:
                             if link < 1 or link > len(self.filtered_news):
                                 print('Materia inexistente!')
                             else:
+                                resume(self.filtered_news[link-1])
                                 webbrowser.open(self.filtered_news[link-1]['link'])
                                 # if platform == "linux" or platform == "linux2": # Linux
                                 #     chrome_path = '/usr/bin/google-chrome %s'
@@ -158,7 +160,7 @@ class News:
         
         
         for i, article in enumerate(self.filtered_news[constante:constante+10]):
-            print (f'{constante+i+1}. {article["data"].strftime("%d-%m-%Y %H:%M")} - {article["fonte"].upper()} - {article["materia"]}')
+            print (f'{constante+i+1}. {article["data"].strftime("%d-%m-%Y %H:%M")} - {article["fonte"].upper()} - {article["materia"]}\n')
         print(f'page {self.page}/{self.max_page}')
         
         # Rodapé
