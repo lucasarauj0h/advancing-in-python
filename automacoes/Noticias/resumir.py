@@ -11,10 +11,10 @@ from datetime import datetime
 
 # 1 - Coletando o artigo
 def resume(link):
-    print(link)
+    # print(link)
     g = Goose()
     url = link['link']
-    print(link['link'])
+    # print(link['link'])
     noticia = g.extract(url)
     # print(noticia.cleaned_text)
 
@@ -33,11 +33,10 @@ def resume(link):
     for setenca in resumo:
         frase += '\n'+str(setenca)
         
-    print(frase)
+    # print(frase)
     with(open("resume.txt", 'w', encoding='utf-8')) as file:
         file.write(f'{frase}\n')
 
-       
      
     
            

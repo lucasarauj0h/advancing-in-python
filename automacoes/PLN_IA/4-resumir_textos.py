@@ -7,7 +7,7 @@ from sumy.nlp.tokenizers import Tokenizer
 
 # 1 - Coletando o artigo
 g = Goose()
-url = 'https://www.bbc.com/portuguese/articles/c889kvd2e13o'
+url = 'https://www.infomoney.com.br/guias/debentures/'
 noticia = g.extract(url)
 print(noticia.cleaned_text)
 
