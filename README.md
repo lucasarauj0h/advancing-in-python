@@ -1,4 +1,4 @@
-# avancandoPython
+# advacing-in-python
 
 <p>Curso de python do básico ao avançado, oferecido pela OneBitCode e com complementos de outras fontes de ensino tais como</p>
 <p>Book: Curso intensivo de Python by Eric Matthes</p>
