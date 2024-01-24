@@ -8,7 +8,7 @@ def cotacao_moeda(moeda):
         date = data['create_date'].replace(' ', ' às ')
         name = data['name'].replace('/',' para o ')
         value = data['bid']
-        mensagem = f'Cotação do {name} em {date} é {value} reais'
+        mensagem = f'Cotação do {name} atualmente é {value} reais'
         return mensagem
     elif moeda == 'Euro':
         req = get('https://economia.awesomeapi.com.br/json/last/EUR-BRL')        
@@ -17,7 +17,7 @@ def cotacao_moeda(moeda):
         date = data['create_date'].replace(' ', ' às ')
         name = data['name'].replace('/',' para o ')
         value = data['bid']
-        mensagem = f'Cotação do {name} em {date} é {value} reais'  
+        mensagem = f'Cotação do {name} atualmente é {value} reais'
         return mensagem  
     elif moeda == 'Bitcoin':
         req = get('https://economia.awesomeapi.com.br/json/last/BTC-BRL')       
@@ -26,5 +26,5 @@ def cotacao_moeda(moeda):
         date = data['create_date'].replace(' ', ' às ')
         name = data['name'].replace('/',' para o ')
         value = data['bid']
-        mensagem = f'Cotação do {name} em {date} é {value} reais'    
+        mensagem = f'Cotação do {name} atualmente é {value} reais'    
         return mensagem

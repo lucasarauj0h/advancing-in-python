@@ -6,6 +6,7 @@ import funcoes_so
 import funcoes_noticias
 import funcoes_moeda
 import os
+import time
 
 # 1 - função para criar audio
 def criar_audio(audio, mensagem):
@@ -16,24 +17,24 @@ def criar_audio(audio, mensagem):
     
 # 2 - monitorando audio 
 def monitora_audio():
-    # recon = sr.Recognizer()
-    # with sr.Microphone() as source:
-    #     while True:
-    #         print("Diga alguma coisa")
-    #         audio = recon.listen(source)
-    #         try:
-    #             mensagem = recon.recognize_google(audio, language='pt-br')
-    #             mensagem = mensagem.lower()
-    #             print('você disse ', mensagem)
-    #             executa_comandos(mensagem)
+    recon = sr.Recognizer()
+    with sr.Microphone() as source:
+        while True:
+            print("Diga alguma coisa")
+            audio = recon.listen(source)
+            time.sleep(2)
+            try:
+                mensagem = recon.recognize_google(audio, language='pt-br')
+                mensagem = mensagem.lower()
+                print('você disse: ', mensagem)
+                executa_comandos(mensagem)
                 
-    #             break
-    #         except sr.UnknownValueError:
-    #             pass
-    #         except sr.RequestError:
-    #             pass
-    mensagem = 'lucas'
-    executa_comandos(mensagem)
+                break
+            except sr.UnknownValueError:
+                pass
+            except sr.RequestError:
+                pass
+            
     return mensagem
     
 # 3 - Definindo as ações da assistente virtual

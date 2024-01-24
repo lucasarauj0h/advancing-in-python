@@ -12,7 +12,6 @@ def ultimas_noticias():
 
     for item in noticias.findAll('item')[:3]:
         titulo = item.title.text
-        print(titulo)
         return titulo
 
 ultimas_noticias()
